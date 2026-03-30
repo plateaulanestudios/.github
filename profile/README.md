@@ -18,4 +18,8 @@ Most firms specialize. We work across software, electronics, and physical fabric
 - We take on a small number of projects each year where the fit is right
 - Each project has an owner. The co-op provides the framework.
 
+**Release verification:**
+
+Signed releases use GPG key [`5DEB 9DD5 90E1 E147 87D7  0684 0483 2A25 FBC2 6BB3`](https://plateaulanestudios.com/mooring/security.html).
+
 [plateaulanestudios.com](https://plateaulanestudios.com)
